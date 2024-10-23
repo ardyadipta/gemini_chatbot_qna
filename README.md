@@ -7,11 +7,11 @@ In this instruction, I use pyenv for the virtual environment and python 3.9.17. 
 
 ## Prepare Environment
 
-  git clone https://github.com/ardyadipta/gemini_chatbot_qna
-  cd gemini_chatbot_qna
-  pyenv virtualenv 3.9.17 gemini_chatbot
-  pyenv activate gemini_chatbot
-  pip install -r requirements.txt
+    git clone https://github.com/ardyadipta/gemini_chatbot_qna
+    cd gemini_chatbot_qna
+    pyenv virtualenv 3.9.17 gemini_chatbot
+    pyenv activate gemini_chatbot
+    pip install -r requirements.txt
 
 # Create API Key
 * visit https://aistudio.google.com/prompts/new_chat?pli=1

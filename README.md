@@ -16,11 +16,11 @@ In this instruction, I use pyenv for the virtual environment and python 3.9.17. 
 # Create API Key
 * visit https://aistudio.google.com/prompts/new_chat?pli=1
 
-export GOOGLE_API_KEY=`<your Google API key`>
-echo $GOOGLE_API_KEY
+        export GOOGLE_API_KEY=`<your Google API key`>
+        echo $GOOGLE_API_KEY
 
 # Run the app
 
-streamlit run app.py
+        streamlit run app.py
 
 
